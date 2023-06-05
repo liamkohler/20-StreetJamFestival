@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Calque_2" data-name="Calque 2" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 209.66 46.21">
+  <defs>
+    <style>
+      .cls-1 {
+        letter-spacing: -.02em;
+      }
+
+      .cls-2 {
+        letter-spacing: -.01em;
+      }
+
+      .cls-3 {
+        font-family: SourceSansRoman-Regular, 'Source Sans Variable';
+        font-size: 18px;
+        font-variation-settings: 'wght' 400;
+      }
+
+      .cls-3, .cls-4 {
+        fill: #f0f;
+      }
+
+      .cls-5 {
+        letter-spacing: -.02em;
+      }
+
+      .cls-6 {
+        fill: url(#Dégradé_sans_nom_194-2);
+      }
+
+      .cls-7 {
+        fill: url(#Dégradé_sans_nom_193-2);
+      }
+
+      .cls-8 {
+        letter-spacing: -.01em;
+      }
+
+      .cls-9 {
+        letter-spacing: 0em;
+      }
+
+      .cls-10 {
+        opacity: .6;
+      }
+
+      .cls-11 {
+        letter-spacing: 0em;
+      }
+
+      .cls-12 {
+        fill: url(#Dégradé_sans_nom_193);
+      }
+
+      .cls-13 {
+        fill: url(#Dégradé_sans_nom_194);
+      }
+    </style>
+    <linearGradient id="Dégradé_sans_nom_193" data-name="Dégradé sans nom 193" x1="-8.76" y1="14.92" x2="10.16" y2="37.46" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#ff00ea"/>
+      <stop offset="1" stop-color="#363636" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="Dégradé_sans_nom_194" data-name="Dégradé sans nom 194" x1="-5023.62" y1="-4648.14" x2="-4923.9" y2="-4529.3" gradientTransform="translate(5082.75 4589.42)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#ff00ea"/>
+      <stop offset=".17" stop-color="#ca0eba" stop-opacity=".74"/>
+      <stop offset=".33" stop-color="#9d1a92" stop-opacity=".51"/>
+      <stop offset=".49" stop-color="#782471" stop-opacity=".33"/>
+      <stop offset=".64" stop-color="#5b2b57" stop-opacity=".19"/>
+      <stop offset=".78" stop-color="#463145" stop-opacity=".08"/>
+      <stop offset=".9" stop-color="#3a3439" stop-opacity=".02"/>
+      <stop offset="1" stop-color="#363636" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="Dégradé_sans_nom_193-2" data-name="Dégradé sans nom 193" x1="-696.19" y1="-9673.68" x2="-677.27" y2="-9651.14" gradientTransform="translate(895.69 9682.43)" xlink:href="#Dégradé_sans_nom_193"/>
+    <linearGradient id="Dégradé_sans_nom_194-2" data-name="Dégradé sans nom 194" x1="4664.99" y1="-5335.57" x2="4764.7" y2="-5216.73" gradientTransform="translate(-4614.18 5321.66)" xlink:href="#Dégradé_sans_nom_194"/>
+  </defs>
+  <g id="Maquette">
+    <g>
+      <g>
+        <g>
+          <polygon class="cls-10" points="201.33 44.81 1.4 44.81 1.4 7.57 8.33 1.4 208.26 1.4 208.26 38.64 201.33 44.81"/>
+          <rect class="cls-12" y="7.57" width="1.4" height="37.24"/>
+          <polygon class="cls-4" points="8.33 0 8.33 1.4 1.4 7.57 0 7.57 8.33 0"/>
+          <rect class="cls-13" x="108.29" y="-99.97" width="1.4" height="201.33" transform="translate(108.29 109.7) rotate(-90)"/>
+          <rect class="cls-7" x="208.26" y="1.4" width="1.4" height="37.24" transform="translate(417.92 40.04) rotate(180)"/>
+          <polygon class="cls-4" points="201.33 46.21 201.33 44.81 208.26 38.64 209.66 38.64 201.33 46.21"/>
+          <rect class="cls-6" x="99.97" y="-55.16" width="1.4" height="201.33" transform="translate(146.18 -55.16) rotate(90)"/>
+        </g>
+        <path class="cls-4" d="m201.46,41.71c-.62.55-6.61-.71-8.85-.71H32.51c-12.44,0-22.32,2.14-23.71,1.32s-1.37-3.96,0-4.53,12.38,1.24,19.01,1.24h164.86c2.24,0,8.25-1.26,8.78-.6s.62,2.75,0,3.3Z"/>
+      </g>
+      <text class="cls-3" transform="translate(12.08 30.92)"><tspan x="0" y="0">in</tspan><tspan class="cls-11" x="14.27" y="0">f</tspan><tspan class="cls-9" x="19.35" y="0">o</tspan><tspan x="29.03" y="0">@</tspan><tspan class="cls-5" x="44.28" y="0">s</tspan><tspan x="51.46" y="0">t</tspan><tspan class="cls-2" x="57.55" y="0">r</tspan><tspan x="63.61" y="0">e</tspan><tspan class="cls-11" x="72.54" y="0">e</tspan><tspan x="81.29" y="0">tjam</tspan><tspan class="cls-11" x="115.81" y="0">f</tspan><tspan x="120.89" y="0">e</tspan><tspan class="cls-5" x="129.82" y="0">s</tspan><tspan x="137" y="0">ti</tspan><tspan class="cls-1" x="147.51" y="0">v</tspan><tspan x="155.56" y="0">al</tspan><tspan class="cls-8" x="169.22" y="0">.</tspan><tspan x="173.5" y="0">ch</tspan></text>
+    </g>
+  </g>
+</svg>
