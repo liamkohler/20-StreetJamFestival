@@ -13,3 +13,44 @@ img {
   display: block;
   max-width: 100%;
 }
+
+h2 {
+  font-family: "subway-new-york-std", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 50px;
+  background: linear-gradient(-50deg, rgba(255,0,255,1) 0%, rgba(79,170,180,1) 87%, rgba(155,202,218,1) 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  display: inline-block;
+  border-style: solid;
+  border-width: 0 0 4px 0;
+  border-color: rgba(110, 240, 255, 0.5);
+  padding-left: 6px;
+  margin: 0;
+}
+
+h3 {
+  color: #abd5f4;
+  border-width: 0 0 4px 0;
+  border-style: solid;
+  border-color: rgba(110, 240, 255, 0.5);
+  display: inline-block;
+  margin: 0 0 20px 0;
+  font-family: "source-sans-3-variable", sans-serif;
+  font-weight: 800;
+}
+
+p {
+  font-family: "source-sans-3-variable", sans-serif;
+  font-weight: 400;
+  font-size: 18px;
+  margin: 0 0 30px 0;
+}
+
+.up {
+  max-width: 45px;
+  position: sticky;
+  bottom: 20px;
+}
+
