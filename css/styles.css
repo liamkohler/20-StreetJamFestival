@@ -9,9 +9,54 @@ body {
   color: #fff;
 }
 
+header {
+  background-image: url(../img/fond.webp);
+  margin-bottom: 30px;
+}
+
+.header-border {
+  border: solid transparent;
+  border-width: 4px 0;
+  border-image: linear-gradient(to left, #0000, #6ef0ff);
+  border-image-slice: 1;
+}
+
+.menu {
+  display: flex;
+  justify-content: space-around;
+  margin: 30px 0;
+}
+
+.menu img {
+  max-height: 45px;
+  width: 100%;
+}
+
+footer {
+  text-align: right;
+  padding-right: 30px;
+  margin-right: 30px;
+  border-style: solid;
+  border-width: 0 4px 4px 0;
+  border-image: linear-gradient(#0000, #6ef0ff) 1;
+}
+
+.border-top-footer {
+  border-top: solid 4px;
+  border-image: linear-gradient(to left, #0000, #6ef0ff) 1;
+}
+
+footer p {
+  margin: 0;
+}
+
 img {
   display: block;
   max-width: 100%;
+}
+
+h1 {
+  margin: auto;
 }
 
 h2 {
@@ -19,13 +64,13 @@ h2 {
   font-weight: 400;
   font-style: normal;
   font-size: 50px;
-  background: linear-gradient(-50deg, rgba(255,0,255,1) 0%, rgba(79,170,180,1) 87%, rgba(155,202,218,1) 100%);
+  background: linear-gradient(-50deg, #ff00ff 0%, #4faab4 87%, #9bcada 100%);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
   display: inline-block;
   border-style: solid;
   border-width: 0 0 4px 0;
-  border-color: rgba(110, 240, 255, 0.5);
+  border-color: #6ef0ff80;
   padding-left: 6px;
   margin: 20px 0 30px 20px;
 }
@@ -46,7 +91,7 @@ h3 {
   content: "";
   width: 50%;
   height: 4px;
-  background: rgba(110, 240, 255, 0.5);
+  background: #6ef0ff80;
   position: absolute;
   bottom: 20px;
   left: 30px  ;
@@ -54,7 +99,6 @@ h3 {
 
 p {
   font-family: "source-sans-3-variable", sans-serif;
-  font-weight: 400;
   font-size: 18px;
   margin: 0 30px 30px 30px;
 }
@@ -66,13 +110,74 @@ p {
 .up {
   max-width: 45px;
   position: sticky;
-  bottom: 220px;
+  bottom: 20px;
   left: 10px;
 }
 
 .section {
   margin-left: 30px;
+}
+
+.border-left {
   border-style: solid;
   border-width: 0 0 0 4px;
-  border-image: linear-gradient(#6ef0ff, rgba(0, 0, 0, 0)) 1 100%;
+  border-image: linear-gradient(#6ef0ff, #0000) 1;
+}
+
+.border-top {
+  border-style: solid;
+  border-width: 4px 0 0 0;
+  border-image: linear-gradient(to right, #6ef0ff, #0000) 1;
+}
+
+.portrait {
+  max-width: 285px;
+  margin: 0 30px 30px;
+}
+
+.logo img {
+  display: block;
+  margin: 20px 5px 0 auto;
+  max-width: 320px;
+}
+
+footer img {
+  max-height: 45px;
+  display: block;
+  margin: 15px 0 0 auto;
+  padding-bottom: 15px;
+}
+
+.festival {
+  background-image: url(../img/enfant.webp);
+}
+
+.graffiti {
+  background-image: url(../img/canette.webp);
+}
+
+.skate {
+  background-image: url(../img/skate.webp);
+}
+
+.musique {
+  background-image: url(../img/musique.webp);
+}
+
+.street-food {
+  background-image: url(../img/food.webp);
+}
+
+.contact {
+  background-image: url(../img/graffiti.webp);
+}
+
+.festival,
+.graffiti,
+.skate,
+.musique,
+.street-food,
+.contact,
+header {
+  background-repeat: no-repeat;
 }
